@@ -397,20 +397,9 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 The directions for installing and setting up the required software can be found 
-<a href = "https://edcarp.github.io/2021-3-29-sfc-dc/setup/setup.html">by following this link</a>.
-</p>
+<a href = "https://edcarp.github.io/2022-06-07-wfd-dc-online/setup/setup.html">by following this link</a>.
 
 <p>
-  To participate in a
-  {% if site.carpentry == "swc" %}
-  Software Carpentry
-  {% elsif site.carpentry == "dc" %}
-  Data Carpentry
-  {% elsif site.carpentry == "lc" %}
-  Library Carpentry
-  {% endif %}
-  workshop,
-  you will need access to software as described below.
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
