@@ -398,7 +398,7 @@ please preview your site before committing, and make sure to run
 
 The directions for installing and setting up the required software can be found 
 <a href = "https://edcarp.github.io/2021-3-29-sfc-dc/setup/setup.html">by following this link</a>.
-<!--p>
+</p>
 
 <p>
   To participate in a
